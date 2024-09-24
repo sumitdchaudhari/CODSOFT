@@ -1,2 +1,0 @@
-# CODSOFT
-Data science Projects
